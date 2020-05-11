@@ -1,0 +1,18 @@
+syntax: glob
+*.DotSettings
+*.orig
+*.suo
+*.user
+.generated
+.vs/
+_ReSharper.*
+config.json
+Debug
+Release
+bin
+obj
+nuget.exe
+packages
+/Publish
+/Tests
+
